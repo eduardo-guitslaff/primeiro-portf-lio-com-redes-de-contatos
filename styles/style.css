@@ -121,14 +121,20 @@ body{
 .imagem_principal{
     width:90%;
 }
-.apresentacao__conteudo__titulo{
-}
 .apresentacao__conteudo__texto{
-    width: 100%;
-}
+
+    font-size: 0.9rem;
 }
 .apresentacao__links__navegacao{
     min-width: 100%;
+    font-size: 1rem;
+    text-align: center;
+    font-weight: 10%;
+}
+.apresentacao__links__navegacao img{
+    width: 24px; /* Ajuste o tamanho da imagem conforme necessário */
+    height: 24px
+   
 }
 h1{
     font-size:0.1rem;
@@ -138,14 +144,21 @@ h1{
     font-size: 18px;
    
 }
+
 .rodape{
     width: 100%;
     font-size: 0.7rem;
 }
 .apresentacao__conteudo__titulo{
-    font-size: 25px;
+    font-size: 1.2rem
+    
 }
 .titulo-destaque{
     margin-left: 5px;
-    font-size: 25px;
+    font-size: 1.2rem;
+
 }
+
+}
+
+
