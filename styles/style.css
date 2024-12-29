@@ -131,13 +131,15 @@ body{
     min-width: 100%;
 }
 h1{
-    font-size: 1px;
+    font-size: 15px;
+    
 }
 .apresentacao__links__subtitulo{
-    font-size: 10px;
+    font-size: 18px;
    
 }
 .rodape{
     width: 100%;
+    font-size: 0.7rem;
 }
 }
