@@ -116,3 +116,8 @@ body{
         width: auto;
     }
 }
+@media (max-width: 535px){
+.apresentacao__links__navegacao{
+    min-width: 100%;
+}
+}
