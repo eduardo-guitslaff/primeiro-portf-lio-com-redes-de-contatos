@@ -122,17 +122,17 @@ body{
     width:90%;
 }
 .apresentacao__conteudo__titulo{
-
 }
-
-
-
+.apresentacao__conteudo__texto{
+    width: 100%;
+}
+}
 .apresentacao__links__navegacao{
     min-width: 100%;
 }
 h1{
-    font-size: 15px;
-    
+    font-size:0.1rem;
+    align-items: center;
 }
 .apresentacao__links__subtitulo{
     font-size: 18px;
@@ -142,4 +142,10 @@ h1{
     width: 100%;
     font-size: 0.7rem;
 }
+.apresentacao__conteudo__titulo{
+    font-size: 25px;
+}
+.titulo-destaque{
+    margin-left: 5px;
+    font-size: 25px;
 }
