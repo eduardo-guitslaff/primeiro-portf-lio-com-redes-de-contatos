@@ -119,10 +119,10 @@ body{
 }
 @media (max-width: 580px){
 .imagem_principal{
-    width:70%;
+    width:90%;
 }
 .apresentacao__conteudo__titulo{
-    font-size: 1.9rem;
+
 }
 
 
@@ -130,11 +130,14 @@ body{
 .apresentacao__links__navegacao{
     min-width: 100%;
 }
-.apresentacao__conteudo__texto{
-    font-size: 0.8rem;
+h1{
+    font-size: 1px;
 }
-h2{
+.apresentacao__links__subtitulo{
     font-size: 10px;
    
+}
+.rodape{
+    width: 100%;
 }
 }
